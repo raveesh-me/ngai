@@ -11,6 +11,10 @@ dependencies:
   flutter:
     sdk: flutter
 
+  ngai:
+    path: ../ngai
+  protobuf: ^3.1.0
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
